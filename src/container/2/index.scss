@@ -54,6 +54,9 @@
     border: 1px solid #ccc;
     border-radius: 4px;
   }
+  &__error {
+    color: red;
+  }
 
   &__select {
     background-size: 20px;
